@@ -1,8 +1,8 @@
 # Dy.fi Updater.js
 This is a Node.js based application for updating dy.fi domains
 
-## Config.js
-Here are the properties that Config.js supports:
+## config.json
+Here are the properties that config.json supports:
 ### Hostname
 This property tells the application the hostname you wish to update
 ### UpdateInterval
