@@ -2,7 +2,8 @@
 This is a Node.js based application for updating dy.fi domains
 
 ## config.json
-Here are the properties that config.json supports:
+Here are the properties that config.json supports  
+**YOU SHOULD NOT INCLUDE THE CONFIG IN ANY OF YOUR COMMITS AS IT CONTAINS SENSITIVE INFORMATION LIKE YOUR USERNAME, PASSWORD AND DOMAIN**
 ### Hostname
 This property tells the application the hostname you wish to update
 ### UpdateInterval
