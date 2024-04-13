@@ -1,0 +1,7 @@
+{
+    "name":"dy.fi-updater.js",
+    "version": "1.0.0",
+    "author": "Joona Myllyniemi <anoojjonttu@gmail.com",
+    "description": "DDNS update tool for dy.fi",
+    "main": "./dyfi-updater.js"
+}

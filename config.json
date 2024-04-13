@@ -1,0 +1,8 @@
+{
+    "hostname":"exampledomain.dy.fi",
+    "UpdateInterval":5,
+    "EnvCreds":true,
+    "User": "replace.with.your@Userna.me",
+    "Key": "Replace_With_Passw0rd"
+
+}
